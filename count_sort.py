@@ -11,6 +11,7 @@ def count_sort_helper(A,B,k):
     for i in range(1,k+1):
         C[i]=C[i-1]+C[i]
     #C now stores cumulative frequency of elements
+    A.reverse()
     for x in A:
         B[C[x]-1]=x
         C[x]-=1
