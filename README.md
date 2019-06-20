@@ -1,2 +1,2 @@
-# sorting-algorithms
-Learning DSA with Python3. This repository contains various sorting algorithms written in python language.
+# DSA
+Learning DSA with Python3. This repository contains various algorithms and data structures written in python language.
